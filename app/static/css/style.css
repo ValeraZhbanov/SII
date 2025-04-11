@@ -1,0 +1,52 @@
+﻿body {
+    padding-top: 20px;
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    font-weight: 600;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.chart-container {
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+
+.filter-section {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.dataTables_wrapper {
+    padding: 0;
+}
+
+.dataTables_filter input {
+    margin-left: 10px;
+}
+
+.chart-container {
+    position: relative;
+    height: 300px !important;
+    width: 100%;
+}
